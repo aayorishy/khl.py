@@ -39,6 +39,7 @@ class Types:
         SUCCESS = 'success'
         DANGER = 'danger'
         WARNING = 'warning'
+        INVISIBLE = 'invisible'
         INFO = 'info'
         NONE = 'none'
 
